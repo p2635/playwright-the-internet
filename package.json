@@ -1,0 +1,19 @@
+{
+  "name": "playwright-the-internet",
+  "version": "1.0.0",
+  "description": "This contains playwright tests to test the-internet",
+  "main": "index.js",
+  "scripts": {
+    "playwright": "npx playwright test tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.17"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.4"
+  }
+}
