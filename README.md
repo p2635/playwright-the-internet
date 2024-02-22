@@ -12,25 +12,31 @@ The page consists of one home page which is a list of links. Each link goes to a
 
 ## What is the test mission?
 
+Purpose of this site: A 'tester's playground' to practise their skills.
+
 Audience (personas):
 
 1. testers new to automation, learning a new tool or framework
 2. testers experienced with automation, learning/brushing up on a new tool or framework
 3. testers practising their exploratory skills
 
-Since the main purpose of this site is a 'tester's playground', I'd say the risks (impact in brackets) are:
+Risks (impact in brackets):
 
 1. The website breaks down (the tester cannot do their testing)
 2. The website does not work on a specific browser (the tester cannot do their testing)
 3. There is no clear description for a specific page (the tester is confused and cannot do their testing)
 
-Based on the risks above, my test mission will consist of checking:
+Based on the list of risks, my test scope consists of checking:
 
 1. The website has a fairly fast response (I'd say within 5-10 seconds)
 2. The website does not contain broken links
 3. Each of the subpages makes sense to the tester
    1. What is the point of this page?
    2. What can I test and not test on this page?
+
+Bonus ideas:
+
+1. How many people visit the website? Will the traffic affect Risk 1?
 
 # Test Approach
 
