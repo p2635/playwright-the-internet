@@ -26,11 +26,11 @@ Since the main purpose of this site is a 'tester's playground', I'd say the risk
 
 Based on the risks above, my test mission will consist of checking:
 
-- The website has a fairly fast response (I'd say within 5-10 seconds)
-- The website does not contain broken links
-- Each of the subpages makes sense to the tester
-  - What is the point of this page?
-  - What can I test and not test on this page?
+1. The website has a fairly fast response (I'd say within 5-10 seconds)
+2. The website does not contain broken links
+3. Each of the subpages makes sense to the tester
+   1. What is the point of this page?
+   2. What can I test and not test on this page?
 
 # Test Approach
 
