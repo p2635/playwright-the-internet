@@ -1,3 +1,5 @@
+<img width="600" alt="image of a website called the internet" src="https://github.com/p2635/playwright-the-internet/assets/4522927/f00d2e25-58c8-48fa-92cd-3f8dd8878635">
+
 This repo documents my testing practice for 'The internet'.
 
 ## What is 'The internet'?
