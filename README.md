@@ -30,7 +30,7 @@ Based on the list of risks, my test scope consists of checking:
 
 1. The website has a fairly fast response (I'd say within 5-10 seconds)
 2. The website does not contain broken links
-3. Each of the subpages makes sense to the tester
+3. Each page makes sense to the tester
    1. What is the point of this page?
    2. What can I test and not test on this page?
 
@@ -49,3 +49,11 @@ Playwright has a default timeout for each command at 5 seconds. As long as I am 
 ## Test 2 - Broken links
 
 I am running [lychee](https://github.com/lycheeverse/lychee) to do this. Currently, it's a manual step for me to run `lychee http://localhost:7080/` and I can see there are no errors. In practice, I would implement this as part of the CI/CD pipeline.
+
+## Test 3 - Each page makes sense to the tester
+
+[The GitHub repo](https://github.com/saucelabs/the-internet) mentions:
+
+> "An example application that captures prominent and ugly functionality found on the web. Perfect for writing automated acceptance tests against."
+
+However, the page itself does not mention this (as the screenshot above shows). The impact is the new tester won't understand what this site is at first glance.
