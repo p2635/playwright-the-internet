@@ -41,6 +41,7 @@ Bonus ideas:
 # Test Approach
 
 - For automated checks, I have decided to learn and practise playwright
+- For other tests, I have no specific methodology than my own thinking
 
 ## Test 1 - The website has a fairly fast response (I'd say within 5-10 seconds)
 
