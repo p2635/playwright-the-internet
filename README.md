@@ -48,4 +48,4 @@ Playwright has a default timeout for each command at 5 seconds. As long as I am 
 
 ## Test 2 - Broken links
 
-I can use something like [lychee](https://github.com/lycheeverse/lychee) to do this.
+I am running [lychee](https://github.com/lycheeverse/lychee) to do this. Currently, it's a manual step for me to run `lychee http://localhost:7080/` and I can see there are no errors. In practice, I would implement this as part of the CI/CD pipeline.
