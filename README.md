@@ -45,3 +45,7 @@ Bonus ideas:
 ## Test 1 - The website has a fairly fast response (I'd say within 5-10 seconds)
 
 Playwright has a default timeout for each command at 5 seconds. As long as I am writing tests that cover most of the website, this point should be covered already. The only thing that I am not sure about is load testing. I don't have experience in that area. If this was a real project, my first step would be consulting the BA to ask what the usual expected traffic is like on the website.
+
+## Test 2 - Broken links
+
+I can use something like [Lychee](https://github.com/lycheeverse/lychee) to do this.
