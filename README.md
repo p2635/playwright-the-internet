@@ -59,4 +59,4 @@ I am running [lychee](https://github.com/lycheeverse/lychee) to do this. Current
 
 > "An example application that captures prominent and ugly functionality found on the web. Perfect for writing automated acceptance tests against."
 
-However, the page itself does not mention this (The screenshot at the top of this README shows this). The impact is the new tester won't understand what this site is at first glance.
+:negative_squared_cross_mark: However, the page itself does not mention this (The screenshot at the top of this README shows this). The impact is the new tester won't understand what this site is at first glance.
