@@ -52,8 +52,10 @@ I am running [lychee](https://github.com/lycheeverse/lychee) to do this. Current
 
 ## Test 3 - Each page makes sense to the tester
 
+**The homepage:**
+
 [The GitHub repo](https://github.com/saucelabs/the-internet) mentions:
 
 > "An example application that captures prominent and ugly functionality found on the web. Perfect for writing automated acceptance tests against."
 
-However, the page itself does not mention this (as the screenshot above shows). The impact is the new tester won't understand what this site is at first glance.
+However, the page itself does not mention this (The screenshot at the top of this README shows this). The impact is the new tester won't understand what this site is at first glance.
