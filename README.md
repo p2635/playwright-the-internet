@@ -48,4 +48,4 @@ Playwright has a default timeout for each command at 5 seconds. As long as I am 
 
 ## Test 2 - Broken links
 
-I can use something like [Lychee](https://github.com/lycheeverse/lychee) to do this.
+I can use something like [lychee](https://github.com/lycheeverse/lychee) to do this.
